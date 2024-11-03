@@ -1,4 +1,4 @@
-The shapefile are in cityshapefile and gridsource folder.		
+The shapefile is in cityshapefile.		
 
 Download the required raster files from payneinstitute and ornl website.
 
